@@ -1,4 +1,4 @@
 //DevOps
 1.Crerate repository at GitHub
 2.create one text file in your local machine
-3.
+3.uplod text file in ypur repository
